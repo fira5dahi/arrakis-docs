@@ -1,6 +1,5 @@
 # IArrakisMetaVault
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IArrakisMetaVault.sol)
 
 IArrakisMetaVault is a vault that is able to invest dynamically deposited
 tokens into protocols through his module.

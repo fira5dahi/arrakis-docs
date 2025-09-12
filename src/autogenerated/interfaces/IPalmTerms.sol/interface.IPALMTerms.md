@@ -1,5 +1,4 @@
 # IPALMTerms
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IPalmTerms.sol)
 
 
 ## Functions

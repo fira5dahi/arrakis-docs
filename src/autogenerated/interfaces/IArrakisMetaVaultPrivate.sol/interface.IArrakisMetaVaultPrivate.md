@@ -1,6 +1,5 @@
 # IArrakisMetaVaultPrivate
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IArrakisMetaVaultPrivate.sol)
 
 ## Functions
 

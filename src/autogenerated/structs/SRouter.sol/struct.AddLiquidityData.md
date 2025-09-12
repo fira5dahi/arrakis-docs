@@ -1,6 +1,5 @@
 # AddLiquidityData
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/structs/SRouter.sol)
 
 ```solidity
 struct AddLiquidityData {

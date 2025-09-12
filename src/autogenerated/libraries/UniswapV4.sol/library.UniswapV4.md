@@ -1,5 +1,4 @@
 # UniswapV4
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/libraries/UniswapV4.sol)
 
 
 ## Functions

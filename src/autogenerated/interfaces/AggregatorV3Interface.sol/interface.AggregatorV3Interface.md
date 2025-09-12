@@ -1,6 +1,5 @@
 # AggregatorV3Interface
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/AggregatorV3Interface.sol)
 
 ## Functions
 

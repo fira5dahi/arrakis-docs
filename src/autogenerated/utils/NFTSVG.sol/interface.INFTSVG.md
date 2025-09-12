@@ -1,5 +1,4 @@
 # INFTSVG
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/utils/NFTSVG.sol)
 
 *Interface for the NFTSVG contract*
 

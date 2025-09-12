@@ -1,6 +1,5 @@
 # SwapBalances
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/structs/SValantis.sol)
 
 ```solidity
 struct SwapBalances {

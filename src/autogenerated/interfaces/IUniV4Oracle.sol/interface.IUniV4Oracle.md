@@ -1,5 +1,4 @@
 # IUniV4Oracle
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IUniV4Oracle.sol)
 
 
 ## Functions
