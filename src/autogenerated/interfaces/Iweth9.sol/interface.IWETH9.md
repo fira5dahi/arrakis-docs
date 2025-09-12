@@ -1,6 +1,5 @@
 # IWETH9
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IWETH9.sol)
 
 ## Functions
 

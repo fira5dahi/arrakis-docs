@@ -1,5 +1,4 @@
 # SVGParams
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/utils/NFTSVG.sol)
 
 Parameters for generating the URI
 

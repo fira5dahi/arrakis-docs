@@ -1,5 +1,4 @@
 # PancakeSwapV4
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/libraries/PancakeSwapV4.sol)
 
 
 ## Functions

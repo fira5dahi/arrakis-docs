@@ -1,5 +1,4 @@
 # IAerodromeStandardModulePrivate
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IAerodromeStandardModulePrivate.sol)
 
 **Author:**
 Arrakis Finance

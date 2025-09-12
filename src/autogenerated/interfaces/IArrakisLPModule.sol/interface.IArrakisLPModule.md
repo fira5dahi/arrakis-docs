@@ -1,6 +1,5 @@
 # IArrakisLPModule
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IArrakisLPModule.sol)
 
 **Author:**
 Arrakis Finance

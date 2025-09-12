@@ -1,5 +1,4 @@
 # AddLiquidityPermit2Data
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/structs/SPrivateRouter.sol)
 
 
 ```solidity

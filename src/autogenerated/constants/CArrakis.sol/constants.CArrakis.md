@@ -1,6 +1,5 @@
 # Constants
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/constants/CArrakis.sol)
 
 ### MINIMUM_LIQUIDITY
 

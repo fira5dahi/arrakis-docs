@@ -1,6 +1,5 @@
 # IModulePublicRegistry
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IModulePublicRegistry.sol)
 
 ## Events
 

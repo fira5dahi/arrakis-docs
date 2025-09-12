@@ -1,5 +1,4 @@
 # Range
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/structs/SUniswapV3.sol)
 
 
 ```solidity

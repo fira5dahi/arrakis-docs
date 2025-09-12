@@ -1,6 +1,5 @@
 # IPauser
 
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IPauser.sol)
 
 ## Functions
 

@@ -1,5 +1,4 @@
 # IUniswapV3SwapCallback
-[Git Source](https://github.com/ArrakisFinance/arrakis-modular/blob/main/src/interfaces/IUniswapV3SwapCallback.sol)
 
 
 ## Functions
