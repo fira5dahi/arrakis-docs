@@ -11,7 +11,7 @@ Uniswap v3 introduced the concept of concentrated liquidity AMM pools which enab
 Arrakis Pro supports token issuers by:
 
 - Supporting token launches
-- Bootstraping liquidity
+- Bootstrapping liquidity
 - Ongoing inventory management
 
 ## Benefits
