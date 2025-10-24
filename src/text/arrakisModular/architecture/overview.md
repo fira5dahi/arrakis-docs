@@ -4,7 +4,7 @@
 
 [Modules](../architecture/modules.md): Each Meta Vault has the capability to whitelist various modules. A module is essentially a smart contract that establishes an integration with a liquidity-consuming dApp.
 
-[Configuration](../architecture/configuration.md): Each Meta Vaults is configurable by the Vault `owner`. This design ensures that as new DEXs emerge, Arrakis integration becomes a matter of simply creating and whitelisting a new module compatible with the DEX, and then activating it.
+[Configuration](../architecture/configuration.md): Each Meta Vault is configurable by the Vault `owner`. This design ensures that as new DEXs emerge, Arrakis integration becomes a matter of simply creating and whitelisting a new module compatible with the DEX, and then activating it.
 
 [Diagram](../architecture/diagram.md): Arrakis Modular smart contract system represented visually.
 
