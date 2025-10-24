@@ -15,4 +15,4 @@ For example, Arrakis Pro on [Uniswap V4](../modules/uniV4Module/overview.md) is 
 
 - Arrakis Quoter and other offchain market making components to determine dynamic fees.
 - Arrakis Modular (smart contract framework) Private Vaults.
-- A new custom Arrakis Uniswap V4 Hook to give private access to a given pool as well setting dynamic fees which are responsive to market conditions.
+- A new custom Arrakis Uniswap V4 Hook to give private access to a given pool as well as setting dynamic fees which are responsive to market conditions.
