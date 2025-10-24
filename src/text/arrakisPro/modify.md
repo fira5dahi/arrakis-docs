@@ -25,9 +25,9 @@ struct SetupParams {
 
 edit the fields you want to change and copy over the fields from Step 1 that you want to keep the same.
 
-- `vault` that is the address of your vault. call will fail if msg.sender is not not owner of this vault
+- `vault` that is the address of your vault. call will fail if msg.sender is not owner of this vault
 - `oracle` is a smart contract which acts as onchain oracle to police executor actions. Read more about [Arrakis Price Oracles](../../text/arrakisModular/priceOracles.md)
-- `maxDeviation` this is max deviation underlying module spot market can haave from oracle price (in pips)
+- `maxDeviation` this is max deviation underlying module spot market can have from oracle price (in pips)
 - `cooldownPeriod` shortest amount of seconds between any successful management actions on the vault
 - `executor` account which can call management functions for this vault. Pro vaults have `0x420966bCf2A0351F26048cD07076627Cde4f79ac` as executor (the Arrakis Pro Backend)
 - `stratAnnouncer` currently unused for now, (in future, account with ability to set vault offchain strategy config via onchain call)
