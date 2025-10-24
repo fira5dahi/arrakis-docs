@@ -10,7 +10,7 @@ HOT was designed by Arrakis and Valantis Labs. It is built on the [Valantis Modu
 
 ### Flagship Public Vault using HOT AMM
 
-Our flagship WETH/USDC Arrakis Modular Public Vault on Ethereum Mainnet deploys it's funds into a HOT AMM liquidity pool ([details](../../arrakisModular/publicVaults.md#wethusdc-vault)).
+Our flagship WETH/USDC Arrakis Modular Public Vault on Ethereum Mainnet deploys its funds into a HOT AMM liquidity pool ([details](../../arrakisModular/publicVaults.md#wethusdc-vault)).
 
 This public vault offering is similar to LPing on a traditional AMM, but has a few advanced features under the hood:
 
