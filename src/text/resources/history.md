@@ -10,13 +10,13 @@ The project, first being part of Gelato Network, later spun out into an independ
 
 Arrakis has gone on to facilitate \$20B in volume traded.
 
-Since mid 2023, Arrakis has been focussed on the next generation of AMMs and MEV recapture to tackle the biggest threat Ethereum faces: extractive centralised actors.
+Since mid 2023, Arrakis has been focused on the next generation of AMMs and MEV recapture to tackle the biggest threat Ethereum faces: extractive centralised actors.
 
 ### Centralised Actors Taking Over DeFi
 
 We are in the midst of a shift in DeFi. As Ethereum has grown, sophisticated actors have infiltrated DeFi and leveraged complex strategies to extract value from the ecosystem.
 
-Naturally this has increased the scope of the [problem statement](problemStatement.md) Arrakis is tackling. It has grown to encompass recapturing MEV from centralised actors who are extractive to the ecosystem. Arrakis aims to give token issuers and LPs a fairer share of the pie.
+Naturally this has increased the scope of the [problem statement](../../text/introduction/arrakisPro.md#problem-statement) Arrakis is tackling. It has grown to encompass recapturing MEV from centralised actors who are extractive to the ecosystem. Arrakis aims to give token issuers and LPs a fairer share of the pie.
 
 Arrakis is focused on being a decentralized **onchain market making** solution, with a key feature of built-in MEV-Awareness / vertical integration into the MEV supply chain. Arrakis aims to give all token markets a seamless _next-generation onchain spot market liquidity provision experience_.
 
