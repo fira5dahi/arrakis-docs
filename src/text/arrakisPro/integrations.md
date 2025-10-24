@@ -10,4 +10,4 @@ One key feature of Arrakis Modular is the ability to switch between **modules**,
 
 4. [Velodrome](../../text/modules/velodromeModule.md): [identical to Aerodrome module, same bytecode]
 
-Because each of these modules use Uniswap V3 style tick math they can all consume the same core strategy templates (with slightly different paylaod encodings) described in the [strategies](../../text/arrakisPro/strategies/overview.md) section.
+Because each of these modules use Uniswap V3 style tick math they can all consume the same core strategy templates (with slightly different payload encodings) described in the [strategies](../../text/arrakisPro/strategies/overview.md) section.
