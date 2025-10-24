@@ -26,7 +26,7 @@ When the `QuoteSigner` issues signed quotes they can attach metadata that acts a
 - a new growth rate for swap fees (`feeGrowthE6Token{0,1}`)
 - a new max swap fee for the fee growth to stop at (`feeMaxToken{0,1}`)
 
-When a quote actually executes onchain (and is the first one to do so in a block) it will _automagically_ reset the state of the AMM from that point in the block onward to:
+When a quote actually executes onchain (and is the first one to do so in a block) it will _automatically_ reset the state of the AMM from that point in the block onward to:
 
 - spot price at `sqrtSpotPriceX96New`
 - swap fee for token{0,1} of `feeMinToken{0,1} + feeGrowthE6Token{0,1} * (blockTimestamp- signatureTimestamp) / 100` (the minimum fee, plus the growth rate for the amount of time that has elapsed since this quote was signed)
